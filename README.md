@@ -4,7 +4,7 @@
 **Intern ID**  CITS1931                                                                                                                                            
 **Full Name**   Boddu Neha Madhuri                                                                                                                                                                                                                                                                        
 **No. of Weeks** 6 weeks                                                                                                                                                                                                                                                                               
-**Project Name**  Iris Flower Classification Using Machine Learning                                                                                                                                                                                                                                      
+**Project Name**  Iris Flower Classification                                                                                                                                                                                                                                      
 **Project Scope** Develop a Machine Learning model capable of classifying Iris flowers into Setosa, Versicolor, and Virginica species based on sepal and petal measurements. The project demonstrates data preprocessing, model training, prediction, and performance evaluation using the Iris dataset. 
 
 ---
